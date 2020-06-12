@@ -1,0 +1,9 @@
+.caoli {
+  height: auto !important;
+}
+
+.sidebar .box.box-scroll-list .scroll-list {
+  height: auto !important;
+  max-height: 160px !important;
+}
+
